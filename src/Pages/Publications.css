@@ -1,0 +1,13 @@
+.Publicationswrapper{
+    width: 60%;
+    margin: auto;
+    background-color: white;
+}
+.publication-ul{
+    font-size: 24px;
+    line-height: 30px;
+    padding: 20px;
+}
+.publication-ul-detial li{
+  padding-top: 10px;
+}

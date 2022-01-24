@@ -1,0 +1,99 @@
+.Aboutwrapper{
+    width: 60%;
+    margin: auto;
+    background-color: white;
+}
+.faculty-title{
+    font-size: 35px;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 600;
+}
+.prof{
+    display: flex;
+    justify-content: center;
+    gap:50px;
+    border-bottom: 1px solid;
+    width: 70%;
+    margin: 40px auto 0 auto;
+}
+.faculty-img{
+    width: 150px;
+    height: 180px;
+}
+.liu-img{
+    width: 150px;
+    height: 180px;
+}
+.prof-detial{
+    list-style: none;
+    font-size: 20px;
+    line-height: 30px;
+}
+.fu-img{
+    width: 150px;
+    height: 159px;
+}
+.students{
+    width: 70%;
+    border-bottom: 1px solid;
+    margin: auto;
+}
+.student-title{
+    font-size: 35px;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 600;
+}
+.student-part{
+    display: flex;
+    justify-content: center;
+    gap:50px;
+}
+.student-ul{
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: 400;
+}
+.about-intro{
+    width: 70%;
+    border-bottom: 1px solid;
+    margin: 30px auto 0 auto;
+    
+}
+.about-intro-text{
+    font-size: 20px;
+    line-height: 30px;
+}
+.about-ul{
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: 400;
+}
+.about-intro1{
+    width: 70%;
+    
+    margin: 30px auto 0 auto;
+    
+}
+.funding{
+    
+}
+.funding-text{
+    margin: 30px auto 0 auto;
+    font-size: 23px;
+    line-height: 30px;
+    padding: 0 150px 0 150px;
+
+}
+.funding-logo{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    gap:100px;
+    padding-bottom: 30px;
+}
+.funding-logo1{
+    width: 150px;
+    height: 150px;
+}

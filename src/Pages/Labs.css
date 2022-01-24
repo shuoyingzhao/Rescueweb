@@ -1,0 +1,52 @@
+.Labswrapper{
+    width: 60%;
+    margin: auto;
+    background-color: white;
+    
+}
+.lab-section{
+    background: #b4923c;
+    width: 300px;
+    height: 300px;
+    padding: 20px ;
+    border-radius: 15%;
+}
+.lab-section-img{
+    width: 150px;
+    height: 150px;
+    margin: auto;
+}
+.section-img{
+    width: 150px;
+    height: 150px;
+}
+.lab-section-title{
+    font-size: 25px;
+    text-align: center;
+    margin-top: 40px;
+    font-weight: 700;
+}
+.lab-section-title a{
+    
+    color:white;
+    text-decoration: none;
+}
+.lab-part{
+    display:flex;
+    gap:50px;
+    margin: auto;
+    margin-top: 50px;
+    
+    
+}
+.lab-container{
+display: grid;
+grid-row-gap: 0px;
+margin-bottom: 50px;
+
+   
+}
+.lab-contact{
+    font-size: 30px;
+    padding: 20px;
+}
