@@ -26,8 +26,9 @@ Install VS code, then open a Terminal,  cd a floder which you want, run git comm
 
 //*** is the name of branch
 
-!!!! IF you are beginer for Front-end and React, I highly recommend 
+//!!!! IF you are beginer for Front-end and React, I highly recommend 
 you create your own brancd.
+
 **4. Add files**
 
 `git add --all`
