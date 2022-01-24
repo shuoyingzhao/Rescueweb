@@ -14,7 +14,7 @@ Install VS code, then open a Terminal,  cd a floder which you want, run git comm
 
 **1. Clone**
 
-`git clone https://gitlab.com/shuoyingzhao1/rescueweb.git`
+`git clone https://github.com/shuoyingzhao/Rescueweb.git`
 
 **2. Floder**
 
