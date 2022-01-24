@@ -17,26 +17,26 @@ return(
         <div className="lab-part">
         <div className="lab-section">
         <div className="lab-section-img"><img className="section-img" src={helab} alt='Helab' /></div>
-        <div className="lab-section-title"><NavLink to="/">Homomorphic Encryption (HE) Lab</NavLink></div>
+        <div className="lab-section-title"><NavLink to="/helab">Homomorphic Encryption (HE) Lab</NavLink></div>
 
         </div>
 
         <div className="lab-section">
         <div className="lab-section-img"><img className="section-img" src={access} alt='Access' /></div>
-        <div className="lab-section-title"><NavLink to="/">Attribute-based Encryption (ABE) Lab</NavLink></div>
+        <div className="lab-section-title"><NavLink to="/abelab">Attribute-based Encryption (ABE) Lab</NavLink></div>
 
         </div>
         </div>
         <div className="lab-part">
         <div className="lab-section">
         <div className="lab-section-img"><img className="section-img" src={android} alt='Android' /></div>
-        <div className="lab-section-title"><NavLink to="/">Developing Mobile Malware</NavLink></div>
+        <div className="lab-section-title"><NavLink to="/dmmlab">Developing Mobile Malware</NavLink></div>
 
         </div>
 
         <div className="lab-section">
         <div className="lab-section-img"><img className="section-img" src={icon} alt='Icon' /></div>
-        <div className="lab-section-title"><NavLink to="/">Mobile Malware Analysis and Detection</NavLink></div>
+        <div className="lab-section-title"><NavLink to="/mmflab">Mobile Malware Analysis and Detection</NavLink></div>
 
         </div>
         
