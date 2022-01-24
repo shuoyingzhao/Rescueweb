@@ -16,11 +16,15 @@ Install VS code, then open a Terminal,  cd a floder which you want, run git comm
 
 `git clone https://github.com/shuoyingzhao/Rescueweb.git`
 
-**2. Floder**
+**2. Environment**
+
+After clone, run `npm install`
+
+**3. Floder**
 
 `cd rescueweb`
 
-**3. Checkout new branch**
+**4. Checkout new branch**
 
 `git checkout ***`
 
@@ -29,21 +33,25 @@ Install VS code, then open a Terminal,  cd a floder which you want, run git comm
 //!!!! IF you are beginer for Front-end and React, I highly recommend 
 you create your own brancd.
 
-**4. Add files**
+**5. Add files**
 
 `git add --all`
 
-**5. Add commits**
+**6. Add commits**
 
 `git commit -m 'commits text'`
 
-**6. Push**
+**7. Pull**
+Everytime you push to the master branch, you should pull from master brach first
+In the VS code you can pull and push without run command in the terminal
+
+**8. Push**
 
 `git push origin ***`
 
 //After this you could find your code in your own branch
 
-**7. Combine master**
+**9. Combine master**
 
 `git checkout master`
 
