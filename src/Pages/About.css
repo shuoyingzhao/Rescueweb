@@ -97,3 +97,46 @@
     width: 150px;
     height: 150px;
 }
+@media screen and (max-width: 1273px) {
+    .prof{
+       display: grid;
+       gap:20px;
+       text-align: center;
+    }
+    .faculty-img{
+        margin: auto;
+    }
+    .student-part{
+        gap:30px;
+    }
+}
+@media screen and (max-width: 1150px) {
+    .funding-logo{
+        display: grid;
+    }
+    .funding-text{
+       
+        padding: 0 70px 0 70px;
+    
+    }
+}
+@media screen and (max-width: 843px) {
+    .Aboutwrapper{
+        width: 100%;
+    }
+    .student-part{
+        gap:20px;
+    }
+  }
+  @media screen and (max-width: 640px) {
+   
+    .student-part{
+        display: grid;
+        gap: -20px;
+    }
+    .funding-text{
+       
+        padding: 0 40px 0 40px;
+    
+    }
+  }

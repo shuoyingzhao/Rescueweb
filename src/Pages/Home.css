@@ -79,3 +79,30 @@ body{
 .part-img2{
     height: 50px;
 }
+
+@media (max-width: 1483px) {
+    .home-provide{
+        display: grid;
+        padding: 0 100px 0 100px;
+        
+    }
+}
+@media screen and (max-width: 843px) {
+    .homewrapper{
+        width: 100%;
+    }
+}
+@media screen and  (max-width: 753px) {
+    .home-provide{
+        
+        padding: 0 50px 0 50px;
+        
+    }
+}
+@media screen and  (max-width: 490px) {
+    .home-provide{
+        
+        padding: 0 20px 0 20px;
+        
+    }
+}

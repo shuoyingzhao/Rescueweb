@@ -11,3 +11,12 @@
 .publication-ul-detial li{
   padding-top: 10px;
 }
+@media screen and (max-width: 843px) {
+  .Publicationswrapper{
+      width: 100%;
+  }
+  .publication-ul{
+    
+    padding: 0;
+}
+}

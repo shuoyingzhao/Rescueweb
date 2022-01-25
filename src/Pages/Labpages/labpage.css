@@ -44,3 +44,18 @@
     display: inline;
     
 }
+@media screen and (max-width: 1100px) {
+      .overview-detial{
+          display: grid;
+          text-align: justify;
+      }
+      .overview-imge{
+          margin: auto;
+    }
+    }
+@media screen and (max-width: 843px) {
+    .labwrapper{
+        width: 100%;
+    }
+    
+  }
