@@ -18,7 +18,7 @@ return(
         <div className="prof">
             
         <div className="faculty-img"><img className="liu-img" src={liu} alt="Prof.Liu"/></div>
-        <ul className="prof-detial">
+        <div className="prof-detial">
                 <li>Anyi Liu</li>
                 <li>Assistant Professor</li>
                 <li>Computer Science and Engineering Department</li>
@@ -26,12 +26,12 @@ return(
                 <li>Email: anyiliu at oakland dot edu</li>
 
 
-        </ul>
+        </div>
 
         </div>
         <div className="prof">
         <div className="faculty-img"><img className="fu-img" src={fu} alt="Prof.Fu"/></div>
-        <ul className="prof-detial">
+        <div className="prof-detial">
                 <li>Huirong Fu</li>
                 <li>Professor</li>
                 <li>Computer Science and Engineering Department</li>
@@ -39,7 +39,7 @@ return(
                 <li>Email: fu at oakland dot edu</li>
 
 
-        </ul>
+        </div>
 
         </div>
      </div>
