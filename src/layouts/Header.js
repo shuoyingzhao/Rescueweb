@@ -12,7 +12,7 @@ function Header(){
 
 
     const showButton = () => {
-        window.innerWidth <= 1400 ? setMobileView(true) : setMobileView(false);
+        window.innerWidth <= 1454 ? setMobileView(true) : setMobileView(false);
         
     };
 
