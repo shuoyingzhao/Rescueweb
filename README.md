@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Node.js https://nodejs.org/en/
 
 
-## VS code
+## VS code IDE
 
 Install VS code, then open a Terminal,  cd a floder which you want, run git command
 
@@ -31,7 +31,7 @@ After clone, run `npm install`
 //*** is the name of branch
 
 //!!!! IF you are beginer for Front-end and React, I highly recommend 
-you create your own brancd.
+you create your own branch.
 
 **5. Add files**
 
