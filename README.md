@@ -16,13 +16,14 @@ Install VS code, then open a Terminal,  cd a floder which you want, run git comm
 
 `git clone https://github.com/shuoyingzhao/Rescueweb.git`
 
-**2. Environment**
 
-After clone, run `npm install`
-
-**3. Floder**
+**2. Floder**
 
 `cd rescueweb`
+
+**1. Environment**
+
+After clone, run `npm install`
 
 **4. Checkout new branch**
 
