@@ -11,6 +11,7 @@ import HElab from './Pages/Labpages/HElab';
 import ABElab from './Pages/Labpages/ABElab';
 import DMMlab from './Pages/Labpages/DMMlab';
 import MMFlab from './Pages/Labpages/MMFlab';
+import Nomatch from './Pages/Nomatch/Nomatch';
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
   
      <Route path="/Home" element={<Home />} />
      <Route path="/" element={<Navigate replace to="/home" />} />
+     
      <Route path="/Labs" element={<Labs />} />
      <Route path="/Publications" element={<Publications />} />
      <Route path="/About" element={<About />} />
@@ -30,6 +32,7 @@ function App() {
      <Route path="/ABElab" element={<ABElab />} />
      <Route path="/DMMlab" element={<DMMlab />} />
      <Route path="/MMFlab" element={<MMFlab />} />
+     <Route path={"*"} render={() => <Nomatch page={"home"} link={"/home"}/>}/>
    </Routes>
    
    <Footer/>
