@@ -95,7 +95,7 @@ return(
 
      <Titlebar>Fundings</Titlebar>
         <div className="funding">
-            <div className="funding-text">This hghghghgwork is supported in part by the National Science Foundation under awards Grants No. DGE-1723707, DGE-1623713, CNS-1460897, the Michigan Space Grant Consortium, and Oakland University. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.</div>
+            <div className="funding-text">This work is supported in part by the National Science Foundation under awards Grants No. DGE-1723707, DGE-1623713, CNS-1460897, the Michigan Space Grant Consortium, and Oakland University. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.</div>
         <div className="funding-logo">
 
         
