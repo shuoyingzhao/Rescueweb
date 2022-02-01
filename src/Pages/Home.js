@@ -22,7 +22,7 @@ return(
             <div className="home-intro-text">ReScuE (Range for Security Education) is a cloud-based networked virtual environment dedicated to cybersecurity education. It leverages <a href="https://www.cloudlab.us/">CloudLab</a>, a state-of-the-art software-defined networking (SDN) and network function virtualization (NFV) infrastructure, and deployes cybersecurity-related virtual machines and containers. On top of ReScuE, we have developed a series of hands-on labs covering a broad spectrum of cybersecurity topics in pervasive computing.</div>
 
         </div>
-        <Titlebar>Highlights of ReScuE</Titlebar>
+        <Titlebar>Highlights of ReScuE  </Titlebar>
         <div className="home-ul">
 
             <ul className="home-ul-detial">
