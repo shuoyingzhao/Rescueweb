@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Deployment
+This website is already deployed : https://keen-shaw-9519cd.netlify.app/home
+Using Netlify.app
+
 ## Environment
 Node.js https://nodejs.org/en/
 
