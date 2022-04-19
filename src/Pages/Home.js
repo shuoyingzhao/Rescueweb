@@ -38,7 +38,7 @@ return(
         <div className="home-provide">
             <div className="home-part">
             <div className='home-part-img1'><img className="part-img1" src={handon} alt='Handon' /></div>
-            <div className="part-title">Hands-on Labs.</div>
+            <div className="part-title">Hands-on Labs</div>
             <div className="part-text">We have developed cybersecurity hands-on labs in the area of pervasive computing. They cover a wide range of cloud-based cryptography, SDN and NFV, mobile security, and forensic technologies. More labs are under finalization.</div>
             <div className="home-part-img2" ><NavLink to="/labs"><img className="part-img2" src={learnmore} alt='Learnmore' /></NavLink></div>
             </div>
